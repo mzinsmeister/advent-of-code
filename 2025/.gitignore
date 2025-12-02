@@ -23,8 +23,7 @@
 **/.history/
 
 # AOC input files
-input/**
-
+input/
 
 # Added by cargo
 
