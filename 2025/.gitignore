@@ -25,7 +25,7 @@
 # AOC input files
 input/
 # But keep demo variants
-!*_demo.txt
+!input/*_demo.txt
 
 # Added by cargo
 
