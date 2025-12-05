@@ -1,5 +1,3 @@
-use std::collections::HashMap;
-
 use aoc_2025::*;
 
 const DAY: u8 = 0;

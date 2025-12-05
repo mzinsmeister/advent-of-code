@@ -23,7 +23,7 @@
 **/.history/
 
 # AOC input files
-input/
+input/*
 # But keep demo variants
 !input/*_demo.txt
 
